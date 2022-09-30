@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jportaudio">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jportaudio.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jportaudio.jar!/com" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
